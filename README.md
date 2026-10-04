@@ -7,3 +7,22 @@ Techniques involved: Python, Tkinter, pandas DtaFrame
 
 <img width="1219" height="810" alt="Screenshot 2026-10-03 at 10 57 33 PM" src="https://github.com/user-attachments/assets/e8d482af-0f9b-4065-a49f-2645384b46f0" />
 
+## How to Run
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/Yilin93/Flash-Card-App-Capstone-Project.git
+   cd Flash-Card-App-Capstone-Project
+```
+
+2. Install the required library (Tkinter comes bundled with Python):
+```bash
+   pip install pandas
+```
+
+3. Run the app:
+```bash
+   python main.py
+```
+
+The app opens with a random French word. After 3 seconds the card flips to show the English translation. Click ✅ if you knew the word, or ❌ to keep it in your deck. Your progress is saved to `words_to_learn.csv` the first time you click ✅.
