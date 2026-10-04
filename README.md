@@ -4,3 +4,6 @@ Flashy is a French-to-English flashcard desktop app built with Python, Tkinter, 
 Features: timed card flip, spaced-repetition-style word removal, persistent progress via CSV, custom Canvas-based UI
 
 Techniques involved: Python, Tkinter, pandas DtaFrame
+
+<img width="1219" height="810" alt="Screenshot 2026-10-03 at 10 57 33 PM" src="https://github.com/user-attachments/assets/e8d482af-0f9b-4065-a49f-2645384b46f0" />
+
